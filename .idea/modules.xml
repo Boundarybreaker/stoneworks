@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/stoneworks.iml" filepath="$PROJECT_DIR$/stoneworks.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/stoneworks_api.iml" filepath="$PROJECT_DIR$/.idea/modules/stoneworks_api.iml" group="stoneworks" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/stoneworks_main.iml" filepath="$PROJECT_DIR$/.idea/modules/stoneworks_main.iml" group="stoneworks" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/stoneworks_test.iml" filepath="$PROJECT_DIR$/.idea/modules/stoneworks_test.iml" group="stoneworks" />
+    </modules>
+  </component>
+</project>
