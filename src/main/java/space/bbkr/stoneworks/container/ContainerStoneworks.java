@@ -14,7 +14,35 @@ public class ContainerStoneworks extends Container {
 
     public ContainerStoneworks(InventoryPlayer playerInv, final TileEntityStoneworks stoneworks) {
         IItemHandler inventory = stoneworks.getCapability(CapabilityItemHandler.ITEM_HANDLER_CAPABILITY, EnumFacing.NORTH);
-        addSlotToContainer(new SlotItemHandler(inventory, 0, 80, 35) {
+        addSlotToContainer(new SlotItemHandler(inventory, 0, 45, 13) {
+            @Override
+            public void onSlotChanged() {
+                stoneworks.markDirty();
+            }
+        });
+
+        addSlotToContainer(new SlotItemHandler(inventory, 1, 44, 61) {
+            @Override
+            public void onSlotChanged() {
+                stoneworks.markDirty();
+            }
+        });
+
+        addSlotToContainer(new SlotItemHandler(inventory, 2, 80, 61) {
+            @Override
+            public void onSlotChanged() {
+                stoneworks.markDirty();
+            }
+        });
+
+        addSlotToContainer(new SlotItemHandler(inventory, 3, 134, 61) {
+            @Override
+            public void onSlotChanged() {
+                stoneworks.markDirty();
+            }
+        });
+
+        addSlotToContainer(new SlotItemHandler(inventory, 4, 134, 12) {
             @Override
             public void onSlotChanged() {
                 stoneworks.markDirty();

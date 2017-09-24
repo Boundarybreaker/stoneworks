@@ -6,7 +6,7 @@ import net.minecraft.item.Item;
 import net.minecraft.item.ItemBlock;
 import net.minecraftforge.fml.common.registry.GameRegistry;
 import net.minecraftforge.registries.IForgeRegistry;
-import space.bbkr.stoneworks.block.*;
+import space.bbkr.stoneworks.block.BlockStoneworks;
 
 public class ModBlocks {
 

@@ -11,7 +11,7 @@ import javax.annotation.Nullable;
 
 public class TileEntityStoneworks extends TileEntity {
 
-    private ItemStackHandler inventory = new ItemStackHandler(1);
+    private ItemStackHandler inventory = new ItemStackHandler(5);
 
     @Override
     public NBTTagCompound writeToNBT(NBTTagCompound compound) {
