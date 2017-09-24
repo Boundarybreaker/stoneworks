@@ -2,18 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="eb9f6dfa-794c-4eb8-9be1-8572992e7de5" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/stoneworks_main/textures/gui/stoneworks.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/textures/gui/stoneworks.png" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/stoneworks_main/space/bbkr/stoneworks/block/BlockBase.class" afterPath="$PROJECT_DIR$/out/production/stoneworks_main/space/bbkr/stoneworks/block/BlockBase.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/stoneworks_main/space/bbkr/stoneworks/block/ModBlocks.class" afterPath="$PROJECT_DIR$/out/production/stoneworks_main/space/bbkr/stoneworks/block/ModBlocks.class" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/stoneworks_main/space/bbkr/stoneworks/container/ContainerStoneworks$3.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/stoneworks_main/space/bbkr/stoneworks/container/ContainerStoneworks$4.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/stoneworks_main/space/bbkr/stoneworks/container/ContainerStoneworks$5.class" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/stoneworks_main/space/bbkr/stoneworks/container/ContainerStoneworks.class" afterPath="$PROJECT_DIR$/out/production/stoneworks_main/space/bbkr/stoneworks/container/ContainerStoneworks.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/stoneworks_main/space/bbkr/stoneworks/tileentity/TileEntityStoneworks.class" afterPath="$PROJECT_DIR$/out/production/stoneworks_main/space/bbkr/stoneworks/tileentity/TileEntityStoneworks.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/space/bbkr/stoneworks/block/BlockBase.java" afterPath="$PROJECT_DIR$/src/main/java/space/bbkr/stoneworks/block/BlockBase.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/space/bbkr/stoneworks/block/ModBlocks.java" afterPath="$PROJECT_DIR$/src/main/java/space/bbkr/stoneworks/block/ModBlocks.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/space/bbkr/stoneworks/container/ContainerStoneworks.java" afterPath="$PROJECT_DIR$/src/main/java/space/bbkr/stoneworks/container/ContainerStoneworks.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/space/bbkr/stoneworks/tileentity/TileEntityStoneworks.java" afterPath="$PROJECT_DIR$/src/main/java/space/bbkr/stoneworks/tileentity/TileEntityStoneworks.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
@@ -87,24 +83,27 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ContainerStoneworks.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="ContainerStoneworks.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/space/bbkr/stoneworks/container/ContainerStoneworks.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="880">
-              <caret line="65" column="3" lean-forward="false" selection-start-line="65" selection-start-column="3" selection-end-line="65" selection-end-column="3" />
+            <state relative-caret-position="138">
+              <caret line="74" column="42" lean-forward="true" selection-start-line="74" selection-start-column="42" selection-end-line="74" selection-end-column="42" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#2154#2155#0" expanded="true" />
+                <element signature="e#1077#1078#0" expanded="true" />
+                <element signature="e#1131#1132#0" expanded="true" />
+                <element signature="e#2196#2197#0" expanded="true" />
+                <element signature="e#2223#2224#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="TileEntityStoneworks.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="TileEntityStoneworks.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/space/bbkr/stoneworks/tileentity/TileEntityStoneworks.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="480">
-              <caret line="30" column="5" lean-forward="true" selection-start-line="30" selection-start-column="5" selection-end-line="30" selection-end-column="5" />
+            <state relative-caret-position="192">
+              <caret line="12" column="0" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -120,6 +119,12 @@
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>inventorySl</find>
+      <find>inventorySlots</find>
+    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -718,8 +723,8 @@
         <option value="$PROJECT_DIR$/src/main/java/space/bbkr/stoneworks/block/BlockStoneworks.java" />
         <option value="$PROJECT_DIR$/src/main/java/space/bbkr/stoneworks/block/ModBlocks.java" />
         <option value="$PROJECT_DIR$/src/main/java/space/bbkr/stoneworks/Stoneworks.java" />
-        <option value="$PROJECT_DIR$/src/main/java/space/bbkr/stoneworks/container/ContainerStoneworks.java" />
         <option value="$PROJECT_DIR$/src/main/java/space/bbkr/stoneworks/block/BlockBase.java" />
+        <option value="$PROJECT_DIR$/src/main/java/space/bbkr/stoneworks/container/ContainerStoneworks.java" />
         <option value="$PROJECT_DIR$/src/main/java/space/bbkr/stoneworks/tileentity/TileEntityStoneworks.java" />
       </list>
     </option>
@@ -1014,7 +1019,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="22" width="1440" height="878" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -1025,7 +1029,7 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3287841" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3287841" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -1188,27 +1192,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/space/bbkr/stoneworks/block/BlockStoneworks.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="286">
-          <caret line="44" column="0" lean-forward="false" selection-start-line="44" selection-start-column="0" selection-end-line="44" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/space/bbkr/stoneworks/container/ContainerStoneworks.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="880">
-          <caret line="65" column="3" lean-forward="false" selection-start-line="65" selection-start-column="3" selection-end-line="65" selection-end-column="3" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#2154#2155#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/space/bbkr/stoneworks/client/gui/GuiStoneworks.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="131">
@@ -1219,12 +1202,36 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/space/bbkr/stoneworks/tileentity/TileEntityStoneworks.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/space/bbkr/stoneworks/block/BlockStoneworks.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="480">
-          <caret line="30" column="5" lean-forward="true" selection-start-line="30" selection-start-column="5" selection-end-line="30" selection-end-column="5" />
+        <state relative-caret-position="286">
+          <caret line="44" column="0" lean-forward="false" selection-start-line="44" selection-start-column="0" selection-end-line="44" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/space/bbkr/stoneworks/tileentity/TileEntityStoneworks.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="12" column="0" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/space/bbkr/stoneworks/container/ContainerStoneworks.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="74" column="42" lean-forward="true" selection-start-line="74" selection-start-column="42" selection-end-line="74" selection-end-column="42" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1077#1078#0" expanded="true" />
+            <element signature="e#1131#1132#0" expanded="true" />
+            <element signature="e#2196#2197#0" expanded="true" />
+            <element signature="e#2223#2224#0" expanded="true" />
           </folding>
         </state>
       </provider>

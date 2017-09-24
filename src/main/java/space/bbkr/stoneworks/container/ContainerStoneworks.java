@@ -27,27 +27,27 @@ public class ContainerStoneworks extends Container {
                 stoneworks.markDirty();
             }
         });
-
-        addSlotToContainer(new SlotItemHandler(inventory, 2, 80, 61) {
-            @Override
-            public void onSlotChanged() {
-                stoneworks.markDirty();
-            }
-        });
-
-        addSlotToContainer(new SlotItemHandler(inventory, 3, 134, 61) {
-            @Override
-            public void onSlotChanged() {
-                stoneworks.markDirty();
-            }
-        });
-
-        addSlotToContainer(new SlotItemHandler(inventory, 4, 134, 12) {
-            @Override
-            public void onSlotChanged() {
-                stoneworks.markDirty();
-            }
-        });
+//
+//        addSlotToContainer(new SlotItemHandler(inventory, 2, 80, 61) {
+//            @Override
+//            public void onSlotChanged() {
+//                stoneworks.markDirty();
+//            }
+//        });
+//
+//        addSlotToContainer(new SlotItemHandler(inventory, 3, 134, 61) {
+//            @Override
+//            public void onSlotChanged() {
+//                stoneworks.markDirty();
+//            }
+//        });
+//
+//        addSlotToContainer(new SlotItemHandler(inventory, 4, 134, 12) {
+//            @Override
+//            public void onSlotChanged() {
+//                stoneworks.markDirty();
+//            }
+//        });
 
         for (int i = 0; i < 3; i++) {
             for (int j = 0; j < 9; j++) {
